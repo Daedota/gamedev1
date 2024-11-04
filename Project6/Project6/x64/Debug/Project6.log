@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(95,40): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  Project6.vcxproj -> C:\Users\user\source\repos\Project6\x64\Debug\Project6.exe
