@@ -1,0 +1,7 @@
+﻿  ElfMath.c
+  Lecture 12.c
+C:\Users\박민성\Downloads\Lecture 12.c(150,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박민성\Downloads\Lecture 12.c(213,27): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\박민성\Downloads\Lecture 12.c(278,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Project10.vcxproj -> C:\Users\박민성\source\repos\Project10\x64\Debug\Project10.exe
